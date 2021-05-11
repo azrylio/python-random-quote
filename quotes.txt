@@ -1,4 +1,4 @@
-Responsive is better than fast
+﻿Responsive is better than fast
 It’s not fully shipped until it’s fast
 Anything added dilutes everything else
 Practicality beats purity
@@ -12,3 +12,5 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+manually added quote1
+manually added quote2
